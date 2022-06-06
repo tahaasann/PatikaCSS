@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    font-family: sans-serif;
+    background-color: rgb(43, 159, 226);
+}
+a{
+    text-decoration: none;
+}
+
+.karantina{
+    color:darkred;
+}
+
+.text-red{
+    color:red;
+}
+
+.text-blue{
+    color:blue;
+}
+.text-green{
+    color:green;
+}
+
+.banner{
+    color:red;
+    font-size: 50px;
+}
